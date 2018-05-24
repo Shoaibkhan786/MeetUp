@@ -1,0 +1,43 @@
+<resources>
+    <string name="appName">Meet UP</string>
+    <string name="search_hint">make an appointment</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="singOut">Sign Out</string>
+    <string name="pending">Pending</string>
+    <string name="bookit">BOOK IT</string>
+    <string name="meetingtime">Select your time of meeting:</string>
+    <string name="meetingdate">Select your data of meeting:</string>
+    <string name="accept">ACCEPT</string>
+    <string name="reject">REJECT</string>
+    <string name="time">Time:</string>
+    <string name="date">Date:</string>
+    <string name="year">Year:</string>
+    <string name="major">Major:</string>
+    <string name="day">Day:</string>
+    <string name="status">status:</string>
+    <string-array name="years">
+        <item>
+            Year: 1
+        </item>
+        <item>
+            Year: 2
+        </item>
+        <item>
+            Year: 3
+        </item>
+        <item>
+            Year: 4
+        </item>
+    </string-array>
+    <string-array name="courses">
+        <item>
+            CS
+        </item>
+        <item>
+            EE
+        </item>
+        <item>
+            BBA
+        </item>
+    </string-array>
+</resources>
