@@ -4,4 +4,11 @@ As the name suggest MeetUp is a native android application which helps teachers 
 - make appointment with students or teachers(Search).
 - cancel or reschedule appointment.
 - Reminder before meeting. 
-- collective meeting among the teachers and students. 
+- collective meeting among the teachers and students.
+# Student's Rights
+- make appointment (Search). 
+- cancel or reschedule appointment.
+- Society head make appointment with their society members collectively. 
+- Students can see the response of his/her booked appointment in the form of notification. 
+- Reminder before meeting.
+
